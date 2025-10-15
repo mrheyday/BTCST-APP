@@ -34,7 +34,7 @@
     "dotenv": "^8.2.0",
     "eth-permit": "^0.1.9",
     "ethers": "5.0.7",
-    "expo": "^39.0.0",
+    "expo": "^48.0.0",
     "expo-clipboard": "^1.0.1",
     "expo-constants": "~9.2.0",
     "expo-device": "~2.3.0",
